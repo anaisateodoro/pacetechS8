@@ -2,13 +2,10 @@
 
 <br>Curso de Introdução à lógica de programação</br>
 
- * Categoria do Curso: Iniciação a programação | 2022  
+# Calculadora Simples (4 operações) - Semana 8 – Pacetech
 
-# Calculadora Simples (4 operações) - Semana 8 
-
-#CONSTRUÇÃO DE UMA INTERFACE GRÁFICA – UTILIZANDO O SWING NO NETBEANS
-
-Semana 8 – Pacetech
+# CONSTRUÇÃO DE UMA INTERFACE GRÁFICA – UTILIZANDO O SWING NO NETBEANS
+<br>
 <p>Nesta semana foi possível aprender a construção de uma calculadora simples, desenvolvida na linguagem Java, com o auxílio da IDE do NetBeans. 
 Assim, tal exercício teve intuito de usar o Swing (framework utilizado para fins de auxiliar em interface gráfica) na execução de um algoritmo exprimindo as quatro operações básicas de uma calculadora simples por via da IDE).</p>
 <br>
@@ -30,7 +27,6 @@ Assim, tal exercício teve intuito de usar o Swing (framework utilizado para fin
 * [x]Implementando eventos;
 * [x]Árvore de componentes;
 * [x]Detalhes importantes;
-* [x]Exercício (criação de uma tela de login);
 
 <p>Por fim, nesta semana tive a oportunidade de entender o Swing, que é uma biblioteca de componentes que o Java utiliza para a criação de interface gráfica para criação de telas de um determinado algoritmo desenvolvido e executado.</p>
 
@@ -44,4 +40,4 @@ Assim, tal exercício teve intuito de usar o Swing (framework utilizado para fin
 - [Github](https://github.com/anaisateodoro)
 - [Email](anaisateodoro@gmail.com)
 
-# pacetechS8
+
