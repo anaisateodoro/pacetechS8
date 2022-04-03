@@ -1,10 +1,8 @@
 # Pacetech - Semana 8 
 
-<br>Curso de Introdução à lógica de programação</br>
+<br>Curso de Introdução à lógica de programação.Calculadora Simples (4 operações)</br> 
 
-### Calculadora Simples (4 operações) 
-
-## CONSTRUÇÃO DE UMA INTERFACE GRÁFICA – UTILIZANDO O SWING NO NETBEANS
+### CONSTRUÇÃO DE UMA INTERFACE GRÁFICA – UTILIZANDO O SWING NO NETBEANS
 <br>
 <p>Nesta semana foi possível aprender a construção de uma calculadora simples, desenvolvida na linguagem Java, com o auxílio da IDE do NetBeans. 
 Assim, tal exercício teve intuito de usar o Swing (framework utilizado para fins de auxiliar em interface gráfica) na execução de um algoritmo exprimindo as quatro operações básicas de uma calculadora simples por via da IDE).</p>
